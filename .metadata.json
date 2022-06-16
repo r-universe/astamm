@@ -1,0 +1,22 @@
+[
+  {
+    "package": "fdacluster",
+    "oncran": true
+  },
+  {
+    "package": "nevada",
+    "oncran": true
+  },
+  {
+    "package": "nloptr",
+    "oncran": true
+  },
+  {
+    "package": "riot",
+    "oncran": true
+  },
+  {
+    "package": "roahd",
+    "oncran": true
+  }
+]

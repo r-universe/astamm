@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fdacluster"]
+	path = fdacluster
+	url = https://github.com/astamm/fdacluster
+	shallow = true
+	registered = true
+[submodule "nevada"]
+	path = nevada
+	url = https://github.com/astamm/nevada
+	shallow = true
+	registered = true
+[submodule "nloptr"]
+	path = nloptr
+	url = https://github.com/astamm/nloptr
+	shallow = true
+	registered = true
+[submodule "riot"]
+	path = riot
+	url = https://github.com/astamm/riot
+	shallow = true
+	registered = true
+[submodule "roahd"]
+	path = roahd
+	url = https://github.com/astamm/roahd
+	shallow = true
+	registered = true

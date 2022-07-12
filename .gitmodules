@@ -8,11 +8,6 @@
 	url = https://github.com/astamm/fdacluster
 	shallow = true
 	registered = true
-[submodule "nevada"]
-	path = nevada
-	url = https://github.com/astamm/nevada
-	shallow = true
-	registered = true
 [submodule "nloptr"]
 	path = nloptr
 	url = https://github.com/astamm/nloptr

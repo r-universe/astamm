@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "nevada",
-    "oncran": true
-  },
-  {
     "package": "nloptr",
     "oncran": true
   },

@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "fdakma",
+    "oncran": true
+  },
+  {
     "package": "nloptr",
     "oncran": true
   },

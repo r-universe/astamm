@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "riot",
+    "oncran": true
+  },
+  {
     "package": "roahd",
     "oncran": true
   }

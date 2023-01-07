@@ -18,6 +18,11 @@
 	url = https://github.com/astamm/nloptr
 	shallow = true
 	registered = true
+[submodule "riot"]
+	path = riot
+	url = https://github.com/astamm/riot
+	shallow = true
+	registered = true
 [submodule "roahd"]
 	path = roahd
 	url = https://github.com/astamm/roahd

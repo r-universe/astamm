@@ -1,10 +1,14 @@
 [
   {
-    "package": "fdacluster",
+    "package": "roahd",
     "oncran": true
   },
   {
     "package": "fdakma",
+    "oncran": true
+  },
+  {
+    "package": "fdacluster",
     "oncran": true
   },
   {
@@ -13,10 +17,6 @@
   },
   {
     "package": "riot",
-    "oncran": true
-  },
-  {
-    "package": "roahd",
     "oncran": true
   }
 ]

@@ -11,9 +11,6 @@
 [submodule "nloptr"]
 	path = nloptr
 	url = https://github.com/astamm/nloptr
-[submodule "riot"]
-	path = riot
-	url = https://github.com/astamm/riot
 [submodule "roahd"]
 	path = roahd
 	url = https://github.com/astamm/roahd

@@ -8,6 +8,9 @@
 [submodule "fdakma"]
 	path = fdakma
 	url = https://github.com/astamm/fdakma
+[submodule "nevada"]
+	path = nevada
+	url = https://github.com/astamm/nevada
 [submodule "nloptr"]
 	path = nloptr
 	url = https://github.com/astamm/nloptr

@@ -5,9 +5,6 @@
 [submodule "fdacluster"]
 	path = fdacluster
 	url = https://github.com/astamm/fdacluster
-[submodule "nevada"]
-	path = nevada
-	url = https://github.com/astamm/nevada
 [submodule "nloptr"]
 	path = nloptr
 	url = https://github.com/astamm/nloptr

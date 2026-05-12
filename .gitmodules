@@ -14,3 +14,6 @@
 [submodule "roahd"]
 	path = roahd
 	url = https://github.com/astamm/roahd
+[submodule "rvtk"]
+	path = rvtk
+	url = https://github.com/astamm/rvtk
